@@ -5,7 +5,7 @@
 3-)Eğer Visual Studio ekranında kod gelmez ise çözüm gezgini açınız.
 4-)Çözüm gezgini içerisinden Alg_Vize_Calismasi'nın alt kısmındaki Program.cs yazısına tıklayınız.
 
-==================================================================================================
+============================================================================================
 
 1-)First of all, create a new folder and put the file and folder in the zip into it.
 2-)Then open the file named < Alg_Visa_Calismasi.sln >.
