@@ -1,2 +1,13 @@
 # OBS-Proje
-Hello there
+
+1-)Öncelikle zip içerisindeki dosyayı ve klasörü yeni bir klasör oluşturup içine atınız.
+2-)Ardından < Alg_Vize_Calismasi.sln > adlı dosyayı açınız.
+3-)Eğer Visual Studio ekranında kod gelmez ise çözüm gezgini açınız.
+4-)Çözüm gezgini içerisinden Alg_Vize_Calismasi'nın alt kısmındaki Program.cs yazısına tıklayınız.
+
+==================================================================================================
+
+1-)First of all, create a new folder and put the file and folder in the zip into it.
+2-)Then open the file named < Alg_Visa_Calismasi.sln >.
+3-)If the code does not appear on the Visual Studio screen, open the solution explorer.
+4-)In the solution explorer, click on Program.cs at the bottom of Alg_Visa_Calismasi.
